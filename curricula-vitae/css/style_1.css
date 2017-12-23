@@ -1,0 +1,42 @@
+body{
+  background-color: gray;
+}
+
+footer{
+  margin-top: 20px;
+}
+
+#encabezado{
+  display: block;
+  margin: 0 auto;
+}
+
+
+a[href$='html']{
+  color: blue;
+}
+
+img[src$='.svg']{
+  border-radius: 50px;
+}
+
+*{
+  margin: 1vh 1vw;
+}
+
+h1 + h2{
+  text-decoration: underline;
+}
+
+h2 ~ p{
+  text-align: justify;
+}
+
+article > h2{
+
+  text-decoration: underline;
+}
+
+ul li{
+  list-style-type: circle;
+}
