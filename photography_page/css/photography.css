@@ -28,6 +28,18 @@ nav > a:hover{
 }
 
 #main_image{
-  margin:5%;
+  padding:5%;
   text-align: center;
+  background-color:  #82c3a6;
+}
+
+#general_images{
+  text-align: center;
+  background-color: #d5c75f;
+  padding-top: 5%;
+}
+
+#general_images img{
+    padding-right: 5%;
+
 }
