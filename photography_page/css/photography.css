@@ -1,0 +1,33 @@
+
+header{
+  background-color: #5b7989;
+  text-align: left;
+  display: flex;
+  -webkit-border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
+
+}
+
+header > h1{
+  color: white;
+  text-shadow: 2px #02010a;
+  padding: 0% 50% 0% 2%;
+}
+
+header > nav{
+  text-align: center;
+  padding-top: 30px;
+}
+
+nav > a{
+  color: white;
+}
+
+nav > a:hover{
+  text-decoration: none;
+}
+
+#main_image{
+  margin:5%;
+  text-align: center;
+}
